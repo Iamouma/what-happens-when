@@ -166,7 +166,7 @@ Parse URL
 ---------
 
 * The browser now has the following information contained in the URL (Uniform
-  Resource Locator):
+  Resource Locator)::
 
     - ``Protocol``  "http"
         Use 'Hyper Text Transfer Protocol'
